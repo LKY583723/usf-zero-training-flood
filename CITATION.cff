@@ -14,8 +14,8 @@ authors:
   - family-names: Li
     given-names: Xiulai
     affiliation: "School of Computer Science and Technology, Hainan University"
-repository-code: "[CODE-REPOSITORY-URL]"
-doi: "[CODE-DOI-TO-BE-ADDED]"
+repository-code: "https://github.com/LKY583723/usf-zero-training-flood"
+doi: "10.5281/zenodo.24048211"
 date-released: "2026-11-07"
 references:
   - type: article

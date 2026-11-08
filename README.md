@@ -1,9 +1,15 @@
 # Zero-Training SAR Flood Mapping with an Explicit Verification Gate
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24048210.svg)](https://doi.org/10.5281/zenodo.24048210)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Code, configuration and result archives for the manuscript
 
 > **Zero-Training SAR Flood Mapping from a Single SLC Pair: Gate Design and Its Limits**
-> *IEEE Geoscience and Remote Sensing Letters* (submitted). <!-- DOI to be added on acceptance -->
+> *IEEE Geoscience and Remote Sensing Letters* (submitted).
+>
+> Archived release: [`10.5281/zenodo.24048211`](https://doi.org/10.5281/zenodo.24048211) (v1.0.1)
+> · always-latest concept DOI: [`10.5281/zenodo.24048210`](https://doi.org/10.5281/zenodo.24048210)
 
 Reported configuration **F** is **zero-training and fully deterministic**: no learned
 parameters, no GPU, and a **single** pre/post Sentinel-1 SLC pair. Reproducing the main
