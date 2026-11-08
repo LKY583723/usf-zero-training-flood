@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the letter and the UrbanSARFloods dataset."
+title: "Zero-Training SAR Flood Mapping from a Single SLC Pair: Gate Design and Its Limits"
+abstract: >-
+  Reference implementation of a deterministic, training-free SAR flood-mapping pipeline
+  that commits a pixel as flood only after an explicit verification gate, plus the
+  research scripts and result archives behind the accompanying IEEE GRSL letter.
+type: software
+license: MIT
+authors:
+  - family-names: Liao
+    given-names: Kaiyi
+    affiliation: "School of Computer Science and Technology, Hainan University"
+  - family-names: Li
+    given-names: Xiulai
+    affiliation: "School of Computer Science and Technology, Hainan University"
+repository-code: "[CODE-REPOSITORY-URL]"
+doi: "[CODE-DOI-TO-BE-ADDED]"
+date-released: "2026-11-07"
+references:
+  - type: article
+    title: "UrbanSARFloods: Sentinel-1 SLC-based benchmark dataset for urban and open-area flood mapping"
+    authors:
+      - family-names: Zhao
+        given-names: J.
+      - family-names: Xiong
+        given-names: Z.
+      - family-names: Zhu
+        given-names: X. X.
+    collection-title: "Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. Workshops (CVPRW)"
+    year: 2024
